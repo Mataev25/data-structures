@@ -18,7 +18,8 @@
   * конструктор по умолчанию и параметризованный конструктор
 Методы доступа:
   * setIP(), setRGN(), setMNST(), setNext() - сеттеры
-  * getIP(), getRGN(), setMNST(), setNext() - геттеры
+  * getIP(), getRGN(), setMNST(), setNext() - геттеры.
+    
 Класс clientList - односвязный список с функцией сортировки
 
 Поля:
