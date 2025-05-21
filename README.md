@@ -20,6 +20,7 @@
   * setIP(), setRGN(), setMNST(), setNext() - сеттеры
   * getIP(), getRGN(), setMNST(), setNext() - геттеры
 Класс clientList - односвязный список с функцией сортировки
+
 Поля:
   *first - указатель на первый элемент списка
   *regionCount - хеш-таблица для подсчета клиентов по регионам
